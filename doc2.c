@@ -1,5 +1,4 @@
 /* Calculation of simple interest */
-/* Author gekay Date 25/05/2004 */
 main( )
 {
 	int   p, n ;
